@@ -1,0 +1,2 @@
+fyers-apiv2
+python-dotenv
